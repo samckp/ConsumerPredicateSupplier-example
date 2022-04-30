@@ -1,0 +1,1 @@
+# ConsumerPredicateSupplier-example
